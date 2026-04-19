@@ -103,9 +103,11 @@
 		"STATUS_OFFLINE":  [ "#434D62" ]
     },
     "rawColors": {
-        "PRIMARY_100": "#DEE8FD",
+        "PRIMARY_700": "#9C27B0",
+        "PRIMARY_300": "#9C27B0",
+        "PRIMARY_230": "#7B1FA2",
+        "PRIMARY_100": "#7B1FA2",
         "PRIMARY_200": "#DEE8FD",
-        "PRIMARY_300": "#DEE8FD",
         "PRIMARY_330": "#DEE8FDaa",
         "PRIMARY_360": "#DEE8FD",
         "PRIMARY_400": "#ADC5FA",
@@ -116,7 +118,6 @@
         "PRIMARY_630": "#1B1E27",
         "PRIMARY_645": "#ff0",
         "PRIMARY_660": "#181A21",
-        "PRIMARY_700": "#131419",
 		"PRIMARY_730": "#212631",
         "PRIMARY_800": "#1B1E27",
 		"PLUM_0": "#ADC5FA",
@@ -242,10 +243,6 @@
         "WHITE_630": "#DEE8FD",
 		"ROLE_DEFAULT": "#1B1E27",
 		"BLACK_460": "#1B1E27"
-        "PRIMARY_700": "#9C27B0",
-        "PRIMARY_300": "#9C27B0",
-        "PRIMARY_230": "#7B1FA2",
-        "PRIMARY_100": "#7B1FA2",
     },
     "plus": {
        "version": "0",
